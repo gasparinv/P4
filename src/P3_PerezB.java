@@ -39,7 +39,7 @@ public class P3_PerezB {
         if(allok){
         
         
-        ID = scan.nextInt();
+        ID = scan.hasNextInt();
 
         if (ID >= 111 && ID <= 999) {
           count = 0;
